@@ -5,3 +5,6 @@ Users can **add the credit cards** they have and **select the locations** where 
 ## Responsible
 We are a team of four people, and I am mainly responsible for **crawling credit card reward from three banks using crawler technique**, and then **pre-processing the data and database management**.
 ## Outcome
+https://user-images.githubusercontent.com/119481696/224555041-40b8aebe-1e62-4618-a821-0f099a731b34.mp4
+
+https://user-images.githubusercontent.com/119481696/224555001-eea77eaa-5bab-4670-9356-cb5d112378a0.mp4
