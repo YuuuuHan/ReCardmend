@@ -10,7 +10,11 @@ run the project according to the following instructions:
 flutter run --no-sound-null-safety
 ```
 ## Outcome
-https://user-images.githubusercontent.com/119481696/226355270-b0e25924-7adc-4a75-9e57-c97eb4ef61e5.mp4
+
+
+https://user-images.githubusercontent.com/119481696/226356150-bb906196-33b3-42f0-9c15-9dc8991461e9.mp4
+
+
 
 
 
